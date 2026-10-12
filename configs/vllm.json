@@ -18,7 +18,7 @@
     "input_encoding": "text",
     "engine": {
       "tensor_parallel_size": 1,
-      "gpu_memory_utilization": 0.98,
+      "gpu_memory_utilization": 0.92,
       "max_model_len": 4096,
       "trust_remote_code": false
     }
