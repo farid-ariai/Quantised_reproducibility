@@ -1,0 +1,602 @@
+[
+  {
+    "label_id": 0,
+    "name": "political framework",
+    "eurovoc_id": "100163",
+    "eurovoc_label": "0406 political framework"
+  },
+  {
+    "label_id": 1,
+    "name": "politics and public safety",
+    "eurovoc_id": "100168",
+    "eurovoc_label": "0431 politics and public safety"
+  },
+  {
+    "label_id": 2,
+    "name": "executive power and public service",
+    "eurovoc_id": "100169",
+    "eurovoc_label": "0436 executive power and public service"
+  },
+  {
+    "label_id": 3,
+    "name": "international affairs",
+    "eurovoc_id": "100170",
+    "eurovoc_label": "0806 international affairs"
+  },
+  {
+    "label_id": 4,
+    "name": "cooperation policy",
+    "eurovoc_id": "100171",
+    "eurovoc_label": "0811 cooperation policy"
+  },
+  {
+    "label_id": 5,
+    "name": "international security",
+    "eurovoc_id": "100172",
+    "eurovoc_label": "0816 international security"
+  },
+  {
+    "label_id": 6,
+    "name": "defence",
+    "eurovoc_id": "100173",
+    "eurovoc_label": "0821 defence"
+  },
+  {
+    "label_id": 7,
+    "name": "EU institutions and European civil service",
+    "eurovoc_id": "100174",
+    "eurovoc_label": "1006 EU institutions and European civil service"
+  },
+  {
+    "label_id": 8,
+    "name": "European Union law",
+    "eurovoc_id": "100175",
+    "eurovoc_label": "1011 European Union law"
+  },
+  {
+    "label_id": 9,
+    "name": "European construction",
+    "eurovoc_id": "100176",
+    "eurovoc_label": "1016 European construction"
+  },
+  {
+    "label_id": 10,
+    "name": "EU finance",
+    "eurovoc_id": "100177",
+    "eurovoc_label": "1021 EU finance"
+  },
+  {
+    "label_id": 11,
+    "name": "civil law",
+    "eurovoc_id": "100179",
+    "eurovoc_label": "1211 civil law"
+  },
+  {
+    "label_id": 12,
+    "name": "criminal law",
+    "eurovoc_id": "100180",
+    "eurovoc_label": "1216 criminal law"
+  },
+  {
+    "label_id": 13,
+    "name": "international law",
+    "eurovoc_id": "100183",
+    "eurovoc_label": "1231 international law"
+  },
+  {
+    "label_id": 14,
+    "name": "rights and freedoms",
+    "eurovoc_id": "100184",
+    "eurovoc_label": "1236 rights and freedoms"
+  },
+  {
+    "label_id": 15,
+    "name": "economic policy",
+    "eurovoc_id": "100185",
+    "eurovoc_label": "1606 economic policy"
+  },
+  {
+    "label_id": 16,
+    "name": "economic conditions",
+    "eurovoc_id": "100186",
+    "eurovoc_label": "1611 economic conditions"
+  },
+  {
+    "label_id": 17,
+    "name": "regions and regional policy",
+    "eurovoc_id": "100187",
+    "eurovoc_label": "1616 regions and regional policy"
+  },
+  {
+    "label_id": 18,
+    "name": "national accounts",
+    "eurovoc_id": "100189",
+    "eurovoc_label": "1626 national accounts"
+  },
+  {
+    "label_id": 19,
+    "name": "economic analysis",
+    "eurovoc_id": "100190",
+    "eurovoc_label": "1631 economic analysis"
+  },
+  {
+    "label_id": 20,
+    "name": "trade policy",
+    "eurovoc_id": "100191",
+    "eurovoc_label": "2006 trade policy"
+  },
+  {
+    "label_id": 21,
+    "name": "tariff policy",
+    "eurovoc_id": "100192",
+    "eurovoc_label": "2011 tariff policy"
+  },
+  {
+    "label_id": 22,
+    "name": "trade",
+    "eurovoc_id": "100193",
+    "eurovoc_label": "2016 trade"
+  },
+  {
+    "label_id": 23,
+    "name": "international trade",
+    "eurovoc_id": "100194",
+    "eurovoc_label": "2021 international trade"
+  },
+  {
+    "label_id": 24,
+    "name": "consumption",
+    "eurovoc_id": "100195",
+    "eurovoc_label": "2026 consumption"
+  },
+  {
+    "label_id": 25,
+    "name": "marketing",
+    "eurovoc_id": "100196",
+    "eurovoc_label": "2031 marketing"
+  },
+  {
+    "label_id": 26,
+    "name": "distributive trades",
+    "eurovoc_id": "100197",
+    "eurovoc_label": "2036 distributive trades"
+  },
+  {
+    "label_id": 27,
+    "name": "monetary relations",
+    "eurovoc_id": "100198",
+    "eurovoc_label": "2406 monetary relations"
+  },
+  {
+    "label_id": 28,
+    "name": "monetary economics",
+    "eurovoc_id": "100199",
+    "eurovoc_label": "2411 monetary economics"
+  },
+  {
+    "label_id": 29,
+    "name": "financial institutions and credit",
+    "eurovoc_id": "100200",
+    "eurovoc_label": "2416 financial institutions and credit"
+  },
+  {
+    "label_id": 30,
+    "name": "free movement of capital",
+    "eurovoc_id": "100201",
+    "eurovoc_label": "2421 free movement of capital"
+  },
+  {
+    "label_id": 31,
+    "name": "financing and investment",
+    "eurovoc_id": "100202",
+    "eurovoc_label": "2426 financing and investment"
+  },
+  {
+    "label_id": 32,
+    "name": "public finance and budget policy",
+    "eurovoc_id": "100204",
+    "eurovoc_label": "2436 public finance and budget policy"
+  },
+  {
+    "label_id": 33,
+    "name": "budget",
+    "eurovoc_id": "100205",
+    "eurovoc_label": "2441 budget"
+  },
+  {
+    "label_id": 34,
+    "name": "taxation",
+    "eurovoc_id": "100206",
+    "eurovoc_label": "2446 taxation"
+  },
+  {
+    "label_id": 35,
+    "name": "prices",
+    "eurovoc_id": "100207",
+    "eurovoc_label": "2451 prices"
+  },
+  {
+    "label_id": 36,
+    "name": "social affairs",
+    "eurovoc_id": "100212",
+    "eurovoc_label": "2826 social affairs"
+  },
+  {
+    "label_id": 37,
+    "name": "social protection",
+    "eurovoc_id": "100214",
+    "eurovoc_label": "2836 social protection"
+  },
+  {
+    "label_id": 38,
+    "name": "health",
+    "eurovoc_id": "100215",
+    "eurovoc_label": "2841 health"
+  },
+  {
+    "label_id": 39,
+    "name": "documentation",
+    "eurovoc_id": "100220",
+    "eurovoc_label": "3221 documentation"
+  },
+  {
+    "label_id": 40,
+    "name": "communications",
+    "eurovoc_id": "100221",
+    "eurovoc_label": "3226 communications"
+  },
+  {
+    "label_id": 41,
+    "name": "information and information processing",
+    "eurovoc_id": "100222",
+    "eurovoc_label": "3231 information and information processing"
+  },
+  {
+    "label_id": 42,
+    "name": "information technology and data processing",
+    "eurovoc_id": "100223",
+    "eurovoc_label": "3236 information technology and data processing"
+  },
+  {
+    "label_id": 43,
+    "name": "natural and applied sciences",
+    "eurovoc_id": "100224",
+    "eurovoc_label": "3606 natural and applied sciences"
+  },
+  {
+    "label_id": 44,
+    "name": "business organisation",
+    "eurovoc_id": "100226",
+    "eurovoc_label": "4006 business organisation"
+  },
+  {
+    "label_id": 45,
+    "name": "business classification",
+    "eurovoc_id": "100227",
+    "eurovoc_label": "4011 business classification"
+  },
+  {
+    "label_id": 46,
+    "name": "management",
+    "eurovoc_id": "100229",
+    "eurovoc_label": "4021 management"
+  },
+  {
+    "label_id": 47,
+    "name": "accounting",
+    "eurovoc_id": "100230",
+    "eurovoc_label": "4026 accounting"
+  },
+  {
+    "label_id": 48,
+    "name": "competition",
+    "eurovoc_id": "100231",
+    "eurovoc_label": "4031 competition"
+  },
+  {
+    "label_id": 49,
+    "name": "employment",
+    "eurovoc_id": "100232",
+    "eurovoc_label": "4406 employment"
+  },
+  {
+    "label_id": 50,
+    "name": "labour market",
+    "eurovoc_id": "100233",
+    "eurovoc_label": "4411 labour market"
+  },
+  {
+    "label_id": 51,
+    "name": "organisation of work and working conditions",
+    "eurovoc_id": "100234",
+    "eurovoc_label": "4416 organisation of work and working conditions"
+  },
+  {
+    "label_id": 52,
+    "name": "personnel management and staff remuneration",
+    "eurovoc_id": "100235",
+    "eurovoc_label": "4421 personnel management and staff remuneration"
+  },
+  {
+    "label_id": 53,
+    "name": "transport policy",
+    "eurovoc_id": "100237",
+    "eurovoc_label": "4806 transport policy"
+  },
+  {
+    "label_id": 54,
+    "name": "organisation of transport",
+    "eurovoc_id": "100238",
+    "eurovoc_label": "4811 organisation of transport"
+  },
+  {
+    "label_id": 55,
+    "name": "land transport",
+    "eurovoc_id": "100239",
+    "eurovoc_label": "4816 land transport"
+  },
+  {
+    "label_id": 56,
+    "name": "maritime and inland waterway transport",
+    "eurovoc_id": "100240",
+    "eurovoc_label": "4821 maritime and inland waterway transport"
+  },
+  {
+    "label_id": 57,
+    "name": "air and space transport",
+    "eurovoc_id": "100241",
+    "eurovoc_label": "4826 air and space transport"
+  },
+  {
+    "label_id": 58,
+    "name": "environmental policy",
+    "eurovoc_id": "100242",
+    "eurovoc_label": "5206 environmental policy"
+  },
+  {
+    "label_id": 59,
+    "name": "natural environment",
+    "eurovoc_id": "100243",
+    "eurovoc_label": "5211 natural environment"
+  },
+  {
+    "label_id": 60,
+    "name": "deterioration of the environment",
+    "eurovoc_id": "100244",
+    "eurovoc_label": "5216 deterioration of the environment"
+  },
+  {
+    "label_id": 61,
+    "name": "agricultural policy",
+    "eurovoc_id": "100245",
+    "eurovoc_label": "5606 agricultural policy"
+  },
+  {
+    "label_id": 62,
+    "name": "agricultural structures and production",
+    "eurovoc_id": "100246",
+    "eurovoc_label": "5611 agricultural structures and production"
+  },
+  {
+    "label_id": 63,
+    "name": "farming systems",
+    "eurovoc_id": "100247",
+    "eurovoc_label": "5616 farming systems"
+  },
+  {
+    "label_id": 64,
+    "name": "cultivation of agricultural land",
+    "eurovoc_id": "100248",
+    "eurovoc_label": "5621 cultivation of agricultural land"
+  },
+  {
+    "label_id": 65,
+    "name": "means of agricultural production",
+    "eurovoc_id": "100249",
+    "eurovoc_label": "5626 means of agricultural production"
+  },
+  {
+    "label_id": 66,
+    "name": "agricultural activity",
+    "eurovoc_id": "100250",
+    "eurovoc_label": "5631 agricultural activity"
+  },
+  {
+    "label_id": 67,
+    "name": "fisheries",
+    "eurovoc_id": "100252",
+    "eurovoc_label": "5641 fisheries"
+  },
+  {
+    "label_id": 68,
+    "name": "plant product",
+    "eurovoc_id": "100253",
+    "eurovoc_label": "6006 plant product"
+  },
+  {
+    "label_id": 69,
+    "name": "animal product",
+    "eurovoc_id": "100254",
+    "eurovoc_label": "6011 animal product"
+  },
+  {
+    "label_id": 70,
+    "name": "processed agricultural produce",
+    "eurovoc_id": "100255",
+    "eurovoc_label": "6016 processed agricultural produce"
+  },
+  {
+    "label_id": 71,
+    "name": "beverages and sugar",
+    "eurovoc_id": "100256",
+    "eurovoc_label": "6021 beverages and sugar"
+  },
+  {
+    "label_id": 72,
+    "name": "foodstuff",
+    "eurovoc_id": "100257",
+    "eurovoc_label": "6026 foodstuff"
+  },
+  {
+    "label_id": 73,
+    "name": "agri-foodstuffs",
+    "eurovoc_id": "100258",
+    "eurovoc_label": "6031 agri-foodstuffs"
+  },
+  {
+    "label_id": 74,
+    "name": "food technology",
+    "eurovoc_id": "100259",
+    "eurovoc_label": "6036 food technology"
+  },
+  {
+    "label_id": 75,
+    "name": "production",
+    "eurovoc_id": "100260",
+    "eurovoc_label": "6406 production"
+  },
+  {
+    "label_id": 76,
+    "name": "technology and technical regulations",
+    "eurovoc_id": "100261",
+    "eurovoc_label": "6411 technology and technical regulations"
+  },
+  {
+    "label_id": 77,
+    "name": "research and intellectual property",
+    "eurovoc_id": "100262",
+    "eurovoc_label": "6416 research and intellectual property"
+  },
+  {
+    "label_id": 78,
+    "name": "energy policy",
+    "eurovoc_id": "100263",
+    "eurovoc_label": "6606 energy policy"
+  },
+  {
+    "label_id": 79,
+    "name": "coal and mining industries",
+    "eurovoc_id": "100264",
+    "eurovoc_label": "6611 coal and mining industries"
+  },
+  {
+    "label_id": 80,
+    "name": "oil industry",
+    "eurovoc_id": "100265",
+    "eurovoc_label": "6616 oil industry"
+  },
+  {
+    "label_id": 81,
+    "name": "electrical and nuclear industries",
+    "eurovoc_id": "100266",
+    "eurovoc_label": "6621 electrical and nuclear industries"
+  },
+  {
+    "label_id": 82,
+    "name": "industrial structures and policy",
+    "eurovoc_id": "100268",
+    "eurovoc_label": "6806 industrial structures and policy"
+  },
+  {
+    "label_id": 83,
+    "name": "chemistry",
+    "eurovoc_id": "100269",
+    "eurovoc_label": "6811 chemistry"
+  },
+  {
+    "label_id": 84,
+    "name": "iron, steel and other metal industries",
+    "eurovoc_id": "100270",
+    "eurovoc_label": "6816 iron, steel and other metal industries"
+  },
+  {
+    "label_id": 85,
+    "name": "mechanical engineering",
+    "eurovoc_id": "100271",
+    "eurovoc_label": "6821 mechanical engineering"
+  },
+  {
+    "label_id": 86,
+    "name": "electronics and electrical engineering",
+    "eurovoc_id": "100272",
+    "eurovoc_label": "6826 electronics and electrical engineering"
+  },
+  {
+    "label_id": 87,
+    "name": "building and public works",
+    "eurovoc_id": "100273",
+    "eurovoc_label": "6831 building and public works"
+  },
+  {
+    "label_id": 88,
+    "name": "wood industry",
+    "eurovoc_id": "100274",
+    "eurovoc_label": "6836 wood industry"
+  },
+  {
+    "label_id": 89,
+    "name": "leather and textile industries",
+    "eurovoc_id": "100275",
+    "eurovoc_label": "6841 leather and textile industries"
+  },
+  {
+    "label_id": 90,
+    "name": "miscellaneous industries",
+    "eurovoc_id": "100276",
+    "eurovoc_label": "6846 miscellaneous industries"
+  },
+  {
+    "label_id": 91,
+    "name": "Europe",
+    "eurovoc_id": "100277",
+    "eurovoc_label": "7206 Europe"
+  },
+  {
+    "label_id": 92,
+    "name": "regions of EU Member States",
+    "eurovoc_id": "100278",
+    "eurovoc_label": "7211 regions of EU Member States"
+  },
+  {
+    "label_id": 93,
+    "name": "America",
+    "eurovoc_id": "100279",
+    "eurovoc_label": "7216 America"
+  },
+  {
+    "label_id": 94,
+    "name": "Africa",
+    "eurovoc_id": "100280",
+    "eurovoc_label": "7221 Africa"
+  },
+  {
+    "label_id": 95,
+    "name": "Asia and Oceania",
+    "eurovoc_id": "100281",
+    "eurovoc_label": "7226 Asia and Oceania"
+  },
+  {
+    "label_id": 96,
+    "name": "economic geography",
+    "eurovoc_id": "100282",
+    "eurovoc_label": "7231 economic geography"
+  },
+  {
+    "label_id": 97,
+    "name": "political geography",
+    "eurovoc_id": "100283",
+    "eurovoc_label": "7236 political geography"
+  },
+  {
+    "label_id": 98,
+    "name": "overseas countries and territories",
+    "eurovoc_id": "100284",
+    "eurovoc_label": "7241 overseas countries and territories"
+  },
+  {
+    "label_id": 99,
+    "name": "United Nations",
+    "eurovoc_id": "100285",
+    "eurovoc_label": "7606 United Nations"
+  }
+]

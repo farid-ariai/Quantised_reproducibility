@@ -1,0 +1,26 @@
+{
+  "server": "{{LLAMA_SERVER}}",
+  "model": "{{GGUF_MODEL_PATH}}",
+  "tokenizer": "{{TOKENIZER_PATH}}",
+  "server_options": {
+    "gpu_layers": 999,
+    "ctx_size": 16384,
+    "parallel": 4,
+    "flash_attention": "on",
+    "threads": 10,
+    "fit": "off",
+    "host": "127.0.0.1",
+    "port": 8080
+  },
+  "chat": {
+    "add_generation_prompt": true,
+    "enable_thinking": false
+  },
+  "generation": {
+    "temperature": 0.0,
+    "top_p": 1.0,
+    "max_new_tokens": 24,
+    "seed": 42
+  },
+  "input_encoding": "token_ids"
+}

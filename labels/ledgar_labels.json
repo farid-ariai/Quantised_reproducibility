@@ -1,0 +1,402 @@
+[
+  {
+    "label_id": 0,
+    "name": "Adjustments"
+  },
+  {
+    "label_id": 1,
+    "name": "Agreements"
+  },
+  {
+    "label_id": 2,
+    "name": "Amendments"
+  },
+  {
+    "label_id": 3,
+    "name": "Anti-Corruption Laws"
+  },
+  {
+    "label_id": 4,
+    "name": "Applicable Laws"
+  },
+  {
+    "label_id": 5,
+    "name": "Approvals"
+  },
+  {
+    "label_id": 6,
+    "name": "Arbitration"
+  },
+  {
+    "label_id": 7,
+    "name": "Assignments"
+  },
+  {
+    "label_id": 8,
+    "name": "Assigns"
+  },
+  {
+    "label_id": 9,
+    "name": "Authority"
+  },
+  {
+    "label_id": 10,
+    "name": "Authorizations"
+  },
+  {
+    "label_id": 11,
+    "name": "Base Salary"
+  },
+  {
+    "label_id": 12,
+    "name": "Benefits"
+  },
+  {
+    "label_id": 13,
+    "name": "Binding Effects"
+  },
+  {
+    "label_id": 14,
+    "name": "Books"
+  },
+  {
+    "label_id": 15,
+    "name": "Brokers"
+  },
+  {
+    "label_id": 16,
+    "name": "Capitalization"
+  },
+  {
+    "label_id": 17,
+    "name": "Change In Control"
+  },
+  {
+    "label_id": 18,
+    "name": "Closings"
+  },
+  {
+    "label_id": 19,
+    "name": "Compliance With Laws"
+  },
+  {
+    "label_id": 20,
+    "name": "Confidentiality"
+  },
+  {
+    "label_id": 21,
+    "name": "Consent To Jurisdiction"
+  },
+  {
+    "label_id": 22,
+    "name": "Consents"
+  },
+  {
+    "label_id": 23,
+    "name": "Construction"
+  },
+  {
+    "label_id": 24,
+    "name": "Cooperation"
+  },
+  {
+    "label_id": 25,
+    "name": "Costs"
+  },
+  {
+    "label_id": 26,
+    "name": "Counterparts"
+  },
+  {
+    "label_id": 27,
+    "name": "Death"
+  },
+  {
+    "label_id": 28,
+    "name": "Defined Terms"
+  },
+  {
+    "label_id": 29,
+    "name": "Definitions"
+  },
+  {
+    "label_id": 30,
+    "name": "Disability"
+  },
+  {
+    "label_id": 31,
+    "name": "Disclosures"
+  },
+  {
+    "label_id": 32,
+    "name": "Duties"
+  },
+  {
+    "label_id": 33,
+    "name": "Effective Dates"
+  },
+  {
+    "label_id": 34,
+    "name": "Effectiveness"
+  },
+  {
+    "label_id": 35,
+    "name": "Employment"
+  },
+  {
+    "label_id": 36,
+    "name": "Enforceability"
+  },
+  {
+    "label_id": 37,
+    "name": "Enforcements"
+  },
+  {
+    "label_id": 38,
+    "name": "Entire Agreements"
+  },
+  {
+    "label_id": 39,
+    "name": "Erisa"
+  },
+  {
+    "label_id": 40,
+    "name": "Existence"
+  },
+  {
+    "label_id": 41,
+    "name": "Expenses"
+  },
+  {
+    "label_id": 42,
+    "name": "Fees"
+  },
+  {
+    "label_id": 43,
+    "name": "Financial Statements"
+  },
+  {
+    "label_id": 44,
+    "name": "Forfeitures"
+  },
+  {
+    "label_id": 45,
+    "name": "Further Assurances"
+  },
+  {
+    "label_id": 46,
+    "name": "General"
+  },
+  {
+    "label_id": 47,
+    "name": "Governing Laws"
+  },
+  {
+    "label_id": 48,
+    "name": "Headings"
+  },
+  {
+    "label_id": 49,
+    "name": "Indemnifications"
+  },
+  {
+    "label_id": 50,
+    "name": "Indemnity"
+  },
+  {
+    "label_id": 51,
+    "name": "Insurances"
+  },
+  {
+    "label_id": 52,
+    "name": "Integration"
+  },
+  {
+    "label_id": 53,
+    "name": "Intellectual Property"
+  },
+  {
+    "label_id": 54,
+    "name": "Interests"
+  },
+  {
+    "label_id": 55,
+    "name": "Interpretations"
+  },
+  {
+    "label_id": 56,
+    "name": "Jurisdictions"
+  },
+  {
+    "label_id": 57,
+    "name": "Liens"
+  },
+  {
+    "label_id": 58,
+    "name": "Litigations"
+  },
+  {
+    "label_id": 59,
+    "name": "Miscellaneous"
+  },
+  {
+    "label_id": 60,
+    "name": "Modifications"
+  },
+  {
+    "label_id": 61,
+    "name": "No Conflicts"
+  },
+  {
+    "label_id": 62,
+    "name": "No Defaults"
+  },
+  {
+    "label_id": 63,
+    "name": "No Waivers"
+  },
+  {
+    "label_id": 64,
+    "name": "Non-Disparagement"
+  },
+  {
+    "label_id": 65,
+    "name": "Notices"
+  },
+  {
+    "label_id": 66,
+    "name": "Organizations"
+  },
+  {
+    "label_id": 67,
+    "name": "Participations"
+  },
+  {
+    "label_id": 68,
+    "name": "Payments"
+  },
+  {
+    "label_id": 69,
+    "name": "Positions"
+  },
+  {
+    "label_id": 70,
+    "name": "Powers"
+  },
+  {
+    "label_id": 71,
+    "name": "Publicity"
+  },
+  {
+    "label_id": 72,
+    "name": "Qualifications"
+  },
+  {
+    "label_id": 73,
+    "name": "Records"
+  },
+  {
+    "label_id": 74,
+    "name": "Releases"
+  },
+  {
+    "label_id": 75,
+    "name": "Remedies"
+  },
+  {
+    "label_id": 76,
+    "name": "Representations"
+  },
+  {
+    "label_id": 77,
+    "name": "Sales"
+  },
+  {
+    "label_id": 78,
+    "name": "Sanctions"
+  },
+  {
+    "label_id": 79,
+    "name": "Severability"
+  },
+  {
+    "label_id": 80,
+    "name": "Solvency"
+  },
+  {
+    "label_id": 81,
+    "name": "Specific Performance"
+  },
+  {
+    "label_id": 82,
+    "name": "Submission To Jurisdiction"
+  },
+  {
+    "label_id": 83,
+    "name": "Subsidiaries"
+  },
+  {
+    "label_id": 84,
+    "name": "Successors"
+  },
+  {
+    "label_id": 85,
+    "name": "Survival"
+  },
+  {
+    "label_id": 86,
+    "name": "Tax Withholdings"
+  },
+  {
+    "label_id": 87,
+    "name": "Taxes"
+  },
+  {
+    "label_id": 88,
+    "name": "Terminations"
+  },
+  {
+    "label_id": 89,
+    "name": "Terms"
+  },
+  {
+    "label_id": 90,
+    "name": "Titles"
+  },
+  {
+    "label_id": 91,
+    "name": "Transactions With Affiliates"
+  },
+  {
+    "label_id": 92,
+    "name": "Use Of Proceeds"
+  },
+  {
+    "label_id": 93,
+    "name": "Vacations"
+  },
+  {
+    "label_id": 94,
+    "name": "Venues"
+  },
+  {
+    "label_id": 95,
+    "name": "Vesting"
+  },
+  {
+    "label_id": 96,
+    "name": "Waiver Of Jury Trials"
+  },
+  {
+    "label_id": 97,
+    "name": "Waivers"
+  },
+  {
+    "label_id": 98,
+    "name": "Warranties"
+  },
+  {
+    "label_id": 99,
+    "name": "Withholdings"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "one_gpu": {
+    "model": "{{MODEL_PATH}}",
+    "tokenizer": "{{TOKENIZER_PATH}}",
+    "hf_config_path": "{{HF_CONFIG_PATH}}",
+    "dtype": "auto",
+    "quantization": null,
+    "seed": 42,
+    "chat": {
+      "add_generation_prompt": true,
+      "enable_thinking": false
+    },
+    "generation": {
+      "temperature": 0.0,
+      "top_p": 1.0,
+      "max_new_tokens": 24
+    },
+    "input_encoding": "text",
+    "engine": {
+      "tensor_parallel_size": 1,
+      "gpu_memory_utilization": 0.98,
+      "max_model_len": 4096,
+      "trust_remote_code": false
+    }
+  },
+  "two_gpu": {
+    "model": "{{MODEL_PATH}}",
+    "tokenizer": "{{TOKENIZER_PATH}}",
+    "hf_config_path": "{{HF_CONFIG_PATH}}",
+    "dtype": "auto",
+    "quantization": null,
+    "seed": 42,
+    "chat": {
+      "add_generation_prompt": true,
+      "enable_thinking": false
+    },
+    "generation": {
+      "temperature": 0.0,
+      "top_p": 1.0,
+      "max_new_tokens": 24
+    },
+    "input_encoding": "text",
+    "engine": {
+      "tensor_parallel_size": 2,
+      "gpu_memory_utilization": 0.92,
+      "max_model_len": 4096,
+      "trust_remote_code": false,
+      "enforce_eager": true,
+      "disable_custom_all_reduce": true,
+      "compilation_config": {
+        "custom_ops": [],
+        "pass_config": {
+          "fuse_norm_quant": false,
+          "fuse_act_quant": false,
+          "fuse_attn_quant": false,
+          "fuse_allreduce_rms": false,
+          "fuse_gemm_comms": false,
+          "enable_sp": false
+        },
+        "inductor_compile_config": {
+          "combo_kernels": false,
+          "benchmark_combo_kernel": false
+        }
+      }
+    }
+  }
+}
